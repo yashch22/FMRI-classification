@@ -6,4 +6,4 @@ Used Machine learning techniques like Logistic regression, Linear discriminant a
 Accuracy close to 90% was achieved
 
 
-Other team members (equal contribution) :- Akshi and Kanishk kalra
+Team members:-  Akshi, Kanishk kalra, Yash Choudhary.
